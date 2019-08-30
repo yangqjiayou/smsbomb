@@ -1,0 +1,3 @@
+get::http://www.yifatong.com/Customers/gettsms?mobile=phone_number::::http://www.yifatong.com/Customers/login
+post::https://www.itjuzi.com/api/verificationCodes::account=phone_number::https://www.itjuzi.com/login?url=%2Fuser%2Fsend_register_code
+post::https://ems.xg-yc.com/ent/sendMobileCode::mobile=phone_number::https://ems.xg-yc.com/
